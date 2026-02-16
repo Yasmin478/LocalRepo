@@ -1,8 +1,16 @@
 h1{
-  color: beige;
+  color: darkblue;
   font-size: 2em;
 }
 p {
   color: maroon;
   font-size: 1.2em;
+}   
+ul {
+  color: navy;
+  font-size: 1em;
+}
+li {
+  color: green;
+  font-size: 0.8em;
 }   
